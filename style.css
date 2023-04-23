@@ -87,8 +87,8 @@ header .header p{
 @media only screen and (max-width: 768px) {
   header {
     height: auto;
-    min-height: calc(100vh - 130px);
-    background-position: top;
+    min-height: calc(100vh - 70px);
+      background-position: top;
   }
   
   .header h3 {
